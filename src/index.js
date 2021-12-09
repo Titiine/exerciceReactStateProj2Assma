@@ -14,7 +14,6 @@ ReactDOM.render(
         <Route path="compteurs" element={<Compteurs />} />
       </Routes>
     </BrowserRouter>
-    ,
   </React.StrictMode>,
   document.getElementById("root")
 );
